@@ -1,0 +1,3 @@
+dhaval entered in house 0
+mother went out 0
+father went out 0
